@@ -180,7 +180,8 @@
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
       <div class="header-inner"><div class="site-brand-wrapper">
-  <audio loop autoplay src="/audio/1.mp3">
+  <audio loop autoplay style="display:none;">
+    <source src="/audio/1.mp3" type="audio/mpeg">
   </audio>
   <div class="site-meta ">
     
@@ -193,7 +194,7 @@
       </a>
     </div>
       
-        <p class="site-subtitle">但热闹是他们的 | 我什么也没有。</p>
+        <h1 class="site-subtitle" itemprop="description">但热闹是他们的 | 我什么也没有。</h1>
       
   </div>
 
@@ -354,9 +355,9 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">
+          <h2 class="post-title" itemprop="name headline">
                 
-                <a class="post-title-link" href="/2017/08/21/hello-world/" itemprop="url">Hello World</a></h1>
+                <a class="post-title-link" href="/2017/08/21/hello-world/" itemprop="url">Hello World</a></h2>
         
 
         <div class="post-meta">
@@ -490,8 +491,8 @@
                alt="qiansimin88" />
           <p class="site-author-name" itemprop="name">qiansimin88</p>
            
-              <p class="site-description motion-element" itemprop="description">学渣的进化史</p>
-          
+              <p class="site-description motion-element" itemprop="description"></p>
+           
         </div>
         <nav class="site-state motion-element">
 
@@ -693,6 +694,21 @@
   
 
   
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
 
   
 
