@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qiansimin88.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-08-24T05:46:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qiansimin88.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-08-24T05:46:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qiansimin88.github.io/2017/08/21/hello-world/</loc>
+    
+    <lastmod>2017-08-24T05:38:54.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qiansimin88.github.io/2017/08/23/%E9%81%90%E6%83%B3/</loc>
+    
+    <lastmod>2017-08-24T05:38:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qiansimin88.github.io/demo/haha.html</loc>
     
     <lastmod>2017-08-23T01:41:00.000Z</lastmod>
@@ -19,13 +47,6 @@
     <loc>https://qiansimin88.github.io/about/index.html</loc>
     
     <lastmod>2017-08-22T09:09:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qiansimin88.github.io/2017/08/21/hello-world/</loc>
-    
-    <lastmod>2017-08-21T10:10:32.000Z</lastmod>
     
   </url>
   

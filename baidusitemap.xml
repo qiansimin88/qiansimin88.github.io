@@ -5,10 +5,9 @@
     
     
     
-    
   <url>
     <loc>https://qiansimin88.github.io/2017/08/21/hello-world/</loc>
-    <lastmod>2017-08-21T10:10:32.000Z</lastmod>
+    <lastmod>2017-08-24T05:38:54.000Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
@@ -20,4 +19,27 @@
     </data>
     </url>
 
+    
+  <url>
+    <loc>https://qiansimin88.github.io/2017/08/23/%E9%81%90%E6%83%B3/</loc>
+    <lastmod>2017-08-24T05:38:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>遐想</title>
+        <pubTime>2017-08-23T10:20:54.000Z</pubTime>
+        
+        <tag>哈哈</tag>
+         
+         
+           
+             
+              <breadCrumb title="乱想" url="https://qiansimin88.github.io/categories/%E4%B9%B1%E6%83%B3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
 </urlset>
